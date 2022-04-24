@@ -1,0 +1,8 @@
+﻿  test2.c
+D:\C练习\study\test2\test2.c(22,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C练习\study\test2\test2.c(26,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C练习\study\test2\test2.c(30,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C练习\study\test2\test2.c(34,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C练习\study\test2\test2.c(38,69): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C练习\study\test2\test2.c(42,86): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  test2.vcxproj -> D:\C练习\study\test2\x64\Debug\test2.exe
