@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 
 
-=======
+
 //题目：企业发放的奖金根据利润提成。
 
 //
