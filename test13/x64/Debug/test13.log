@@ -1,0 +1,3 @@
+﻿  test13.c
+D:\C练习\study\test13\test13.c(28,5): error C2084: 函数“int main()”已有主体
+D:\C练习\study\test13\test13.c(7): message : 参见“main”的前一个定义
