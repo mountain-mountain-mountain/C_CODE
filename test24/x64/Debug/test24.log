@@ -1,0 +1,4 @@
+﻿  test.c
+D:\C练习\study\test24\test.c(14,7): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\C练习\study\test24\test.c(16,7): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  test24.vcxproj -> D:\C练习\study\test24\x64\Debug\test24.exe
