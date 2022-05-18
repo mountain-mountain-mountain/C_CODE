@@ -7,7 +7,7 @@ int main()
 {
 	 char a[6];
 	printf("输入一个五位数：");
-	scanf("%s", a);
+	scanf("%s", &a);
 	if (a[0] == a[4] && a[1] == a[3])
 	{
 		printf("是回文数\n");

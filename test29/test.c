@@ -14,7 +14,7 @@ void f(int n)
 int main()
 {
 	printf("请输入整数：");
-	scanf("%s", a);
+	scanf("%s", &a);
 	printf("这是一个%lu 位数\n", strlen(a));
 	f(strlen(a));
 
