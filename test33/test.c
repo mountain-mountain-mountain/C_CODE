@@ -30,7 +30,7 @@ return 0;
 //#include<math.h>
 //int zhisu(int i)
 //{
-//	for (int j = 1; j < (int)sqrt((double)i); j++)
+//	for (int j = 2; j < (int)sqrt((double)i); j++)
 //	{
 //		if (i % j == 0)
 //		{
