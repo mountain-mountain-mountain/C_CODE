@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C练习\study\test41\test.c(9): warning C4716: “jishu”: 必须返回一个值
+  test41.vcxproj -> D:\C练习\study\test41\x64\Debug\test41.exe
