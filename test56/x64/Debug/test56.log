@@ -1,0 +1,9 @@
+﻿  源.cpp
+D:\C语言\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\C练习\study\test56\源.cpp(11,14): error C2065: “VGA”: 未声明的标识符
+D:\C练习\study\test56\源.cpp(12,12): error C2065: “VGAHI”: 未声明的标识符
+D:\C练习\study\test56\源.cpp(13,33): error C2664: “HWND initgraph(int,int,int)”: 无法将参数 1 从“int *”转换为“int”
+D:\C练习\study\test56\源.cpp(13,15): message : 没有使该转换得以执行的上下文
+D:\C语言\VC\Auxiliary\VS\include\easyx.h(131,6): message : 参见“initgraph”的声明
+D:\C练习\study\test56\源.cpp(18,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C练习\study\test56\源.cpp(20,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
