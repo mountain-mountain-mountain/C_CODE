@@ -1,0 +1,11 @@
+﻿  test.c
+D:\C练习\study\test66\test.c(17,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int **”
+D:\C练习\study\test66\test.c(17,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int **”
+D:\C练习\study\test66\test.c(17,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int **”
+D:\C练习\study\test66\test.c(18,13): warning C4047: “函数”:“int *”与“int **”的间接级别不同
+D:\C练习\study\test66\test.c(18,11): warning C4024: “jiaohuan”: 形参和实参 1 的类型不同
+D:\C练习\study\test66\test.c(18,17): warning C4047: “函数”:“int *”与“int **”的间接级别不同
+D:\C练习\study\test66\test.c(18,15): warning C4024: “jiaohuan”: 形参和实参 2 的类型不同
+D:\C练习\study\test66\test.c(18,21): warning C4047: “函数”:“int *”与“int **”的间接级别不同
+D:\C练习\study\test66\test.c(18,19): warning C4024: “jiaohuan”: 形参和实参 3 的类型不同
+  test66.vcxproj -> D:\C练习\study\test66\x64\Debug\test66.exe
