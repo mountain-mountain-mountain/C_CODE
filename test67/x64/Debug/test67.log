@@ -1,2 +1,7 @@
 ﻿  test.c
+D:\C练习\study\test67\test.c(77,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\C练习\study\test67\test.c(77,12): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+D:\C练习\study\test67\test.c(77,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+D:\C练习\study\test67\test.c(77,12): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 2 冲突
+D:\C练习\study\test67\test.c(58,32): warning C4101: “t”: 未引用的局部变量
   test67.vcxproj -> D:\C练习\study\test67\x64\Debug\test67.exe
